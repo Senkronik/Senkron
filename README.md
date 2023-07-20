@@ -1,6 +1,6 @@
 <h3 align="center">Here you can see the areas and projects that I have developed myself;</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaa&label=Profile%20views&color=0e75b6&style=flat" alt="aaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Senkronik&label=Profile%20views&color=0e75b6&style=flat" alt="Senkronik" /> </p>
 
 - 💬 Ask me about **C#, PHP-CSS Js, Ts, etc.**
 
